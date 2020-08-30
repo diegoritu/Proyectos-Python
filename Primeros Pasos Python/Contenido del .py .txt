@@ -1,0 +1,14 @@
+- Input
+- Librería Math
+- Listas
+- Tuplas
+- Diccionarios
+- Set
+- Números complejos
+- Booleanos
+- NumPi: Linspace
+- NumPi: Logspace
+- NumPi: Arange
+- NumPi: Arrange
+- Suma de vectores
+- Copia profunda y superficial de arreglos
